@@ -1,0 +1,6 @@
+✨ Magic Cut Studio v1.0.0
+- Initial MVP release!
+- Long Edit, Shorts Factory, OBS Control, and Audio Lab now live.
+- Improved dark mode UI and shortcut integration.
+
+Stay tuned for v1.1 with auto-editing features!
